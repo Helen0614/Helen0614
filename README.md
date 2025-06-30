@@ -53,7 +53,7 @@ I’m open to collaborating on:
 
 * 📧 Email: [fiorellamedinaortiz@gmail.com](mailto:fiorellamedinaortiz@gmail.com)
 * 💼 LinkedIn: [Helen Fiorella Medina](https://www.linkedin.com/in/helenfiorellamo/)
-* 🌐 Portfolio (soon!): strawberrylab.ai
+* 🌐 Portfolio (soon!): FresaDev
 
 ---
 
