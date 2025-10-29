@@ -16,59 +16,82 @@
 
 ### 🇬🇧 English
 
-Hi! I'm **Helen**, an AI undergrad combining **technology with human-centered design**. 
+Hi! I'm **Helen**, a 2nd year AI student who believes technology should care for people, not just solve problems.
 
 🎓 **AI Student** @ UPV/EHU (Donostia, Spain)  
-🔬 **Research Collaborator** @ ALDAPA Group — working on **neurodegeneration detection** using eye-tracking + machine learning  
-🧠 Passionate about **neuroscience, health data, and affective computing**
+🧠 **Passionate about:** Neuroscience, health data, and affective computing  
+🌱 **Currently learning:** Machine learning, signal processing, and biomedical data analysis
 
-I believe technology should solve problems *and* care for people. My work focuses on **accessible, meaningful solutions** for real-world health challenges.
+I'm drawn to the intersection of **AI and human wellbeing** — especially applications in mental health, neurological conditions, and accessible technology.
 
-**Current interests:**
-- 🧬 Machine Learning for neurodegenerative diseases (Alzheimer's, Parkinson's)
-- 📊 Signal processing (EEG, fMRI, eye-tracking)
-- 💡 AI ethics and psychological wellbeing
-- 🌺 Soft, human-centered design in tech
+**What interests me:**
+- 🧬 Machine Learning applied to health and neuroscience
+- 📊 Signal processing and data analysis
+- 💡 Ethical AI and psychological wellbeing
+- 🌺 Human-centered, soft design in tech
 
 ---
 
 ### 🇪🇸 Español
 
-¡Hola! Soy **Helen Fiorella Medina**, estudiante del Grado en **Inteligencia Artificial** en la **UPV/EHU (Donostia)**.
+¡Hola! Soy **Helen Fiorella Medina**, estudiante de 2º del Grado en **Inteligencia Artificial** en la **UPV/EHU (Donostia)**.
 
-🔬 Colaboro con el **grupo de investigación ALDAPA** en **detección de enfermedades neurodegenerativas** mediante análisis de señales oculares y machine learning.
+🧠 Me apasiona la **neurociencia computacional** y el uso de la IA para mejorar la salud y el bienestar humano.
 
-🧠 Mi enfoque: combinar **IA, neurociencia y datos de salud** con un diseño centrado en las personas.
+🌱 **Actualmente aprendiendo:**
+- Machine Learning y minería de datos
+- Análisis de señales (EEG, eye-tracking, señales cerebrales)
+- Estadística avanzada y modelado
+- Desarrollo de proyectos centrados en salud
 
 **Me interesa:**
-- Análisis de señales cerebrales (EEG, fMRI, eye-tracking)
-- Machine Learning aplicado a salud mental y neurología
-- Ética tecnológica y bienestar digital
-- Diseño accesible y estética cuidada en proyectos tech
+- IA aplicada a salud mental y enfermedades neurológicas
+- Procesamiento de señales biomédicas
+- Ética tecnológica y diseño accesible
+- Proyectos con impacto social real
+
+---
+
+## 🌱 Currently Learning & Building
+
+**Focus areas:**
+- 📊 Machine Learning for health data
+- 🧠 Signal processing (working towards EEG/fMRI analysis)
+- 📈 Advanced statistics and data modeling
+- 🎨 Human-centered technology design
+
+**Projects in progress:**
+- Building a portfolio of health data analysis projects
+- Exploring biomedical ML applications
+- Learning computational neuroscience tools
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • R • Java • Ada  
-**ML/Data Science:** pandas • numpy • scikit-learn • TensorFlow • matplotlib • seaborn  
-**Neuroscience:** Eye-tracking analysis • Signal processing • Statistical modeling  
-**Tools:** Git • Jupyter • LaTeX • VS Code
+**Languages I use:**  
+Python • R • Java • Ada
+
+**Currently learning & improving:**
+- **Data Science:** pandas, numpy, matplotlib, seaborn
+- **Machine Learning:** scikit-learn, TensorFlow (learning)
+- **Neuroscience tools:** Signal processing, statistical modeling
+- **Other:** Git, Jupyter, LaTeX
 
 ---
 
 ## 🤝 Open to Collaborate On
 
 💡 **AI + Health** projects focused on mental health or neurological conditions  
-🧠 **Neuroscience + ML** — signal analysis, neuroimaging, computational models  
+🧠 **Neuroscience + ML** — especially for students learning together  
 🎨 **Human-centered design** — accessible, aesthetic, meaningful tech  
-🌱 **Research initiatives** — especially women-led or community-driven
+🌱 **Learning communities** — women in tech, research groups, study teams
 
 ---
 
 ## 📬 Let's Connect
 
-🌟 Interested in collaboration, research or just chatting about AI + neuro?
+🌟 Always happy to connect with people interested in AI + neuroscience + health!
 
 📧 **Email:** [fiorellamedinaortiz@gmail.com](mailto:fiorellamedinaortiz@gmail.com)  
 💼 **LinkedIn:** [Helen Fiorella Medina](https://www.linkedin.com/in/helenfiorellamo/)  
@@ -79,6 +102,6 @@ I believe technology should solve problems *and* care for people. My work focuse
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q3NHo0cWh2b3R0anQ5aGh6YXJiYmt4OTFjMjNxeWpuNnVuZWx4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2k3CA2muz49oY/giphy.gif" width="180"/>
 
-**✨ Building soft tech for hard problems ✨**
+**✨ Learning to build soft tech for hard problems ✨**
 
 </div>
