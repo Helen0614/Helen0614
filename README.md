@@ -70,7 +70,7 @@ I'm drawn to the intersection of **AI and human wellbeing** — especially appli
 ## 🛠️ Tech Stack
 
 **Languages I use:**  
-Python • R • Java • Ada
+Python • R • Java • Ada • C
 
 **Currently learning & improving:**
 - **Data Science:** pandas, numpy, matplotlib, seaborn
