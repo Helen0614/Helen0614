@@ -3,60 +3,82 @@
 
 # 🍓✨ Welcome to my StrawberryLab! ✨🍓
 
+**AI + Neuroscience + Health Data**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Helen_Fiorella-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/helenfiorellamo/)
+[![Email](https://img.shields.io/badge/Email-Contact-pink?style=flat&logo=gmail)](mailto:fiorellamedinaortiz@gmail.com)
+
 </div>
 
 ---
 
-## 🌸 About Me / Sobre mí
+## 🌸 About Me
 
 ### 🇬🇧 English
 
-Hi! I'm Helen, an AI undergrad passionate about combining technology and emotional intelligence. I believe code should not only solve problems, but also care for people.
-My work revolves around accessible tech, creative interfaces, and soft yet powerful solutions for real-world issues.
+Hi! I'm **Helen**, an AI undergrad combining **technology with human-centered design**. 
 
-* 🎓 Studying Artificial Intelligence at UPV/EHU (Spain)
-* 🧬 Focused on affective computing, signal processing and health data
-* 💡 Curious about how AI can support psychological wellbeing and equity
+🎓 **AI Student** @ UPV/EHU (Donostia, Spain)  
+🔬 **Research Collaborator** @ ALDAPA Group — working on **neurodegeneration detection** using eye-tracking + machine learning  
+🧠 Passionate about **neuroscience, health data, and affective computing**
 
-I enjoy working with Python, R, Java, and sometimes even Ada! But more importantly, I love giving my projects a meaningful, soft design.
+I believe technology should solve problems *and* care for people. My work focuses on **accessible, meaningful solutions** for real-world health challenges.
+
+**Current interests:**
+- 🧬 Machine Learning for neurodegenerative diseases (Alzheimer's, Parkinson's)
+- 📊 Signal processing (EEG, fMRI, eye-tracking)
+- 💡 AI ethics and psychological wellbeing
+- 🌺 Soft, human-centered design in tech
 
 ---
 
 ### 🇪🇸 Español
 
 ¡Hola! Soy **Helen Fiorella Medina**, estudiante del Grado en **Inteligencia Artificial** en la **UPV/EHU (Donostia)**.
-Combino tecnología, estética y compromiso social, con un enfoque especial en la **salud mental y la ética tecnológica**.
 
-### Actualmente:
+🔬 Colaboro con el **grupo de investigación ALDAPA** en **detección de enfermedades neurodegenerativas** mediante análisis de señales oculares y machine learning.
 
-* 🧪 Formo parte de un **grupo de investigación** universitaria
-* 🧐 Me interesa la intersección entre la IA, la neurociencia y el bienestar humano
-* 🌺 Desarrollo herramientas digitales con una estética cuidada, accesibles y centradas en las personas
+🧠 Mi enfoque: combinar **IA, neurociencia y datos de salud** con un diseño centrado en las personas.
 
----
-
-## 🤝 Let's Collaborate
-
-I’m open to collaborating on:
-
-* 🧠 AI + Wellness projects that prioritize mental health
-* 🌟 Interactive, visual, educational tech (apps, dashboards, installations)
-* 🎨 Creative coding with pastel or soft aesthetic
-* 👩‍🔬 Community and women-led research in tech
-* 🌱 Ethical, small-scale, human-centered design
+**Me interesa:**
+- Análisis de señales cerebrales (EEG, fMRI, eye-tracking)
+- Machine Learning aplicado a salud mental y neurología
+- Ética tecnológica y bienestar digital
+- Diseño accesible y estética cuidada en proyectos tech
 
 ---
 
-## 📬 Contact
+## 🛠️ Tech Stack
 
-🌟 Let’s stay in touch, collaborate or co-create:
+**Languages:** Python • R • Java • Ada  
+**ML/Data Science:** pandas • numpy • scikit-learn • TensorFlow • matplotlib • seaborn  
+**Neuroscience:** Eye-tracking analysis • Signal processing • Statistical modeling  
+**Tools:** Git • Jupyter • LaTeX • VS Code
 
-* 📧 Email: [fiorellamedinaortiz@gmail.com](mailto:fiorellamedinaortiz@gmail.com)
-* 💼 LinkedIn: [Helen Fiorella Medina](https://www.linkedin.com/in/helenfiorellamo/)
-* 🌐 Portfolio (soon!): FresaDev
+---
+
+## 🤝 Open to Collaborate On
+
+💡 **AI + Health** projects focused on mental health or neurological conditions  
+🧠 **Neuroscience + ML** — signal analysis, neuroimaging, computational models  
+🎨 **Human-centered design** — accessible, aesthetic, meaningful tech  
+🌱 **Research initiatives** — especially women-led or community-driven
+
+---
+
+## 📬 Let's Connect
+
+🌟 Interested in collaboration, research or just chatting about AI + neuro?
+
+📧 **Email:** [fiorellamedinaortiz@gmail.com](mailto:fiorellamedinaortiz@gmail.com)  
+💼 **LinkedIn:** [Helen Fiorella Medina](https://www.linkedin.com/in/helenfiorellamo/)  
+🌐 **Portfolio:** Coming soon at FresaDev ✨
 
 ---
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q3NHo0cWh2b3R0anQ5aGh6YXJiYmt4OTFjMjNxeWpuNnVuZWx4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2k3CA2muz49oY/giphy.gif" width="180"/>
+
+**✨ Building soft tech for hard problems ✨**
+
 </div>
